@@ -1,6 +1,6 @@
 ## Zadanie
 
-Waszym zadaniem będzie stworzenie layoutu w pliku __fragment_movies.xml__ i jedynie ten plik nalezy modyfikować.
+Waszym zadaniem będzie stworzenie layoutu w pliku __fragment_add_movie.xml__ i jedynie ten plik nalezy modyfikować.
 
 Do wykonania zadania uzyjcie Constraint Layout.
 
